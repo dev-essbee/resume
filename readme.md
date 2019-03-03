@@ -3,13 +3,17 @@
 This is resume of Shubham Bhandari in the form of a npm module.
 
 ![npm](https://img.shields.io/npm/v/@dev-sb/resume.svg)
-![npm bundle size](https://img.shields.io/bundlephobia/min/@dev-sb/resume.svg)
 ![NPM](https://img.shields.io/npm/l/@dev-sb/resume.svg)
 
 ### Install
 
 ```
-npm i @dev-sb/resume
+npm install --global @dev-sb/resume
+```
+### Run
+
+```
+dev-sb-resume
 ```
 
 ## License

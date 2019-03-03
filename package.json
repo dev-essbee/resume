@@ -1,0 +1,26 @@
+{
+  "name": "@dev-sb/resume",
+  "version": "1.0.0",
+  "description": "This is resume of Shubham Bhandari in the form of a npm module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dev-sb",
+    "resume"
+  ],
+  "author": "Shubham Bhandari <dev.sb18@gmial.com>",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "inquirer": "^6.2.2"
+  },
+  "devDependencies": {
+    "eslint": "^5.15.0",
+    "eslint-config-google": "^0.12.0"
+  },
+  "bin": {
+    "@dev-sb/resume": "./index.js"
+  }
+}

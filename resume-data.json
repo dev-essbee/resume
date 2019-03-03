@@ -1,0 +1,69 @@
+{
+  "About Me": [
+    "Hi! there",
+    "This is Shubham Bhandari.",
+    "I'm a second year B.Tech. Computer Science and Engineering student",
+    "with specialization in IBM mobile computing.",
+    "I'm pursuing my degree from JK Lakshmipat University, Jaipur, India.",
+    "Programming is my zeroth love and passion.",
+    "I love to explore things and always tend to push my limits."
+  ],
+  "Education": [
+    "2017-21:",
+    "BTECH CSE, INSTITUTE OF ENGINEERING & TECHNOLOGY",
+    "JK LAKSHMIPAT UNIVERSITY, JAIPUR",
+    "Specialization in IBM Mobile Computing",
+    "CGPA: 8.2/10 (till 3 rd semester)",
+    "\n",
+    "2014-16:",
+    "12 TH GRADE, MAHESHWARI PUBLIC SCHOOL, JAIPUR",
+    "CBSE Board",
+    "Score: 76%."
+  ],
+  "Past Experience": [
+    "APR’18-MAY’18",
+    "ANDROID APP DEVELOPMENT INTERN, YOUTH EMPOWERMENT FOUNDATION",
+    "Developed an android app to help in peer to peer blood donation in the country",
+    "The app shows blood donors in a region, can be sorted by blood group",
+    "The app also has location and contact details of blood banks",
+    "Utilized Java and Firebase for the development"
+  ],
+  "Projects": [
+    "NOV’18",
+    "ROBOTIC ARM WITH WIRELESS GLOVE CONTROL",
+    "Developed 3D printed arm that mimics user’s hand gestures.",
+    "Code developed in C and deployed on Arduino Nano.",
+    "\n",
+    "MAY’18",
+    "FUNLEARN",
+    "An Amazon Alexa skill that quizzes the user about Python, Java, C and C++. Also has some",
+    "humorous jokes about programmers.",
+    "Developed using Amazon Skill kit, Node.js (Javascript) and deployed on AWS Lambda.",
+    "Try it: http://bit.ly/fun-learn-quiz",
+    "\n",
+    "FEB’18",
+    "FIND MY LOCATION",
+    "A Google Assistant action that tells your current location.",
+    "Developed using Node.js (Javascript) and Dialogflow and deployed on Google Cloud.",
+    "Try it: http://bit.ly/find-my-location"
+  ],
+  "Skills": [
+    "Programming Languages: ",
+    "Proficient: Python, Java.",
+    "Familiar: C/C++, Javascript, HTML/CSS, Git, Bash shell script, SQL",
+    "Technologies: Familiar: Amazon Web Services, Google Cloud, Firebase, MySQL, Oracle SQL",
+    "Certifications: CCDSAP: Codechef Certified Data Structure & Algorithms Programme.",
+    "http://bit.ly/ccdsap-sb"
+  ],
+  "Let's Connect": [
+    "Email: dev.sb18@gmail.com",
+    "Github: https://github.com/dev-SB",
+    "LinkedIn: https://www.linkedin.com/in/this-is-sb",
+    "Twitter: https://twitter.com/this_isSB",
+    "Instagram: https://www.instagram.com/this_is.sb/"
+  ],
+  "Download CV/Resume": [
+    "Wanna go old school? Download my resume: ",
+    "http://bit.ly/cv-sb"
+  ]
+}

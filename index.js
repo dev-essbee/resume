@@ -41,7 +41,8 @@ function resumeHandler() {
       return;
     }
 
-    console.log(posResponse('--------------------------------------------------\n'));
+    console.log(posResponse('-----------------------------------------------' +
+      +'---\n'));
 
     let i = 0;
     resumeData[`${choice.answer}`].forEach((data) => {
@@ -52,17 +53,19 @@ function resumeHandler() {
         console.log(chalk.bold.cyan('~ ' + data));
         i += 1;
       } else if (i == 1) {
-        console.log(chalk.bold.yellow('// ' + data))
+        console.log(chalk.bold.yellow('// ' + data));
         i += 1;
       } else {
-        console.log('/ ' + data)
+        console.log('/ ' + data);
       }
     });
 
     if (choice.answer == 'About Me') {
-      console.log('\nAt last: ' + chalk.bold.yellow('Programming is a SuperPower.'))
+      console.log('\nAt last: ' + chalk.bold.yellow('Programming' +
+        ' is a SuperPower.'));
     }
-    console.log(negResponse('\n--------------------------------------------------'));
+    console.log(negResponse('\n--------------------------------------'
+      + '------------'));
 
     inquirer.prompt(backPrompt).then((choice) => {
       if (choice.answer == 'Back') {
@@ -71,11 +74,8 @@ function resumeHandler() {
         exit();
         return;
       }
-
     });
-
   });
-
 }
 
 main();

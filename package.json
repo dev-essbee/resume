@@ -24,6 +24,6 @@
     "eslint-config-google": "^0.12.0"
   },
   "bin": {
-    "@dev-sb/resume": "./index.js"
+    "resume": "./index.js"
   }
 }

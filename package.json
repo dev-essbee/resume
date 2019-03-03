@@ -3,12 +3,16 @@
   "version": "1.0.0",
   "description": "This is resume of Shubham Bhandari in the form of a npm module.",
   "main": "index.js",
+  "license":"MIT",
+  "repository":"dev-SB/resume",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "dev-sb",
-    "resume"
+    "resume",
+    "Shubham",
+    "Bhandari"
   ],
   "author": "Shubham Bhandari <dev.sb18@gmial.com>",
   "license": "ISC",

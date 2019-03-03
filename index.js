@@ -42,7 +42,7 @@ function resumeHandler() {
     }
 
     console.log(posResponse('-----------------------------------------------' +
-      +'---\n'));
+      '---\n'));
 
     let i = 0;
     resumeData[`${choice.answer}`].forEach((data) => {

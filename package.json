@@ -1,9 +1,9 @@
 {
   "name": "@dev-sb/resume",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is resume of Shubham Bhandari in the form of a npm module.",
   "main": "index.js",
-  "license": "MIT",
+  "license": "ISC",
   "repository": "dev-SB/resume",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,7 +15,6 @@
     "Bhandari"
   ],
   "author": "Shubham Bhandari <dev.sb18@gmail.com>",
-  "license": "ISC",
   "dependencies": {
     "chalk": "^2.4.2",
     "inquirer": "^6.2.2"

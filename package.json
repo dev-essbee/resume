@@ -1,6 +1,6 @@
 {
   "name": "@dev-sb/resume",
-  "version": "2.1.0",
+  "version": "2.0.2",
   "description": "This is resume of Shubham Bhandari in the form of a npm module.",
   "main": "index.js",
   "license": "ISC",

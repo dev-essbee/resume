@@ -12,8 +12,8 @@
     "2017-21:",
     "BTECH CSE, INSTITUTE OF ENGINEERING & TECHNOLOGY",
     "JK LAKSHMIPAT UNIVERSITY, JAIPUR",
-    "Specialization in IBM Mobile Computing",
-    "CGPA: 8.2/10 (till 3 rd semester)",
+    "Specialization in IBM Big Data Analytics",
+    "CGPA: 8.0/10 (till 4 th semester)",
     "\n",
     "2014-16:",
     "12 TH GRADE, MAHESHWARI PUBLIC SCHOOL, JAIPUR",
@@ -26,7 +26,12 @@
     "Developed an android app to help in peer to peer blood donation in the country",
     "The app shows blood donors in a region, can be sorted by blood group",
     "The app also has location and contact details of blood banks",
-    "Utilized Java and Firebase for the development"
+    "Utilized Java and Firebase for the development",
+    "\n",
+    "Jun'19-July'19",
+    "Summer Intern, Benpour Technologies Pvt. Ltd.",
+    "In this 45 days summer internship, our team developed a facial recognition attendance system to mark the attendance of the employees of the organization.",
+    "The application was built using Python."
   ],
   "Projects": [
     "NOV’18",
@@ -47,6 +52,13 @@
     "Developed using Node.js (Javascript) and Dialogflow and deployed on Google Cloud.",
     "Try it: http://bit.ly/find-my-location"
   ],
+  "Blog": [
+    "Web Scraping IPL Statistics",
+    "An article about a web scraper that I built using Python and BeautifulSoup4.",
+    "The article describes the process of builiding this web scraper.",
+    "Read it out: http://bit.ly/ipl-web-scraper-article"
+
+  ],
   "Skills": [
     "Programming Languages: ",
     "Proficient: Python, Java.",
@@ -60,7 +72,8 @@
     "Github: https://github.com/dev-SB",
     "LinkedIn: https://www.linkedin.com/in/this-is-sb",
     "Twitter: https://twitter.com/this_isSB",
-    "Instagram: https://www.instagram.com/this_is.sb/"
+    "Instagram: https://www.instagram.com/this_is.sb/",
+    "Medium: https://medium.com/@dev.sb18/"
   ],
   "Download CV/Resume": [
     "Wanna go old school? Download my resume: ",
